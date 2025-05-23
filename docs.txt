@@ -1,0 +1,2 @@
+This is a simple linear regression based self training model.
+It trains and generates y=mx+c by finding m and c
